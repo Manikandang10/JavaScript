@@ -1,0 +1,10 @@
+var a=25;
+var b=25.5;
+var c="Chennai";
+var d=true;
+var e=null;
+document.write("A type is :"+typeof(a)+"<br>");
+document.write("B type is :"+typeof(b)+"<br>");
+document.write("C type is :"+typeof(c)+"<br>");
+document.write("D type is :"+typeof(d)+"<br>");
+document.write("E type is :"+typeof(e)+"<br>");
