@@ -1,0 +1,10 @@
+var a=23;
+var b=35;
+document.write("A ="+a+"<br>");
+document.write("B ="+b+"<br>");
+document.write("After Swap <br>");
+var temp =a;
+a=b;
+b=temp;
+document.write("A ="+a+"<br>");
+document.write("B ="+b+"<br>");
