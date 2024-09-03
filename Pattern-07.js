@@ -1,4 +1,3 @@
-<script>
 var n=7;
 for(i=1;i<=n;i++)
 {
@@ -24,4 +23,3 @@ for(i=1;i<=n;i++)
 	}
 	document.write("<br>");
 }
-</script>
